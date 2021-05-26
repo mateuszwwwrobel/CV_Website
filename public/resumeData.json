@@ -141,6 +141,13 @@
         "repo": "https://github.com/mateuszwwwrobel/KWL_Calkiem_Nowy_Czlowiek"
       },
       {
+        "title": "Fast API - Thumbnail Generator",
+        "category": "Web app build with Fast API framework. Allows users to create a thumbnail of the given dimensions from a random photo from the database. Created thumbnail is cached for 1 hour. Hosted on AWS.",
+        "image": "thumb.png",
+        "url": "http://18.168.150.167/",
+        "repo": "https://github.com/mateuszwwwrobel/Thumbnail_Generator"
+      },
+      {
         "title": "Tasty News",
         "category": "Web app gather articles from different news websites. With some statistics.",
         "image": "tastynews.png",
