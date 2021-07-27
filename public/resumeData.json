@@ -141,6 +141,13 @@
         "repo": "https://github.com/mateuszwwwrobel/KWL_Calkiem_Nowy_Czlowiek"
       },
       {
+        "title": "Expense Tracker",
+        "category": "Expense Tracker Application written in Python with Django/DRF.",
+        "image": "expense.png",
+        "url": "https://expense-trackerx.herokuapp.com/",
+        "repo": "https://github.com/mateuszwwwrobel/Expense_Tracker_Django"
+      },
+      {
         "title": "Fast API - Thumbnail Generator",
         "category": "Web app build with Fast API framework. Allows users to create a thumbnail of the given dimensions from a random photo from the database. Created thumbnail is cached for 1 hour. Hosted on AWS.",
         "image": "thumb.png",
